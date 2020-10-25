@@ -1,0 +1,7 @@
+## virtual Environment on windows
+
+in cmd:
+python -m venv calculator
+
+cd calcuator/Scripts/
+activate.bat
